@@ -1,0 +1,30 @@
+{
+  "name": "yad2-apartments-monitor",
+  "version": "1.0.0",
+  "description": "A tinker project to monitor for new apartments on the Israeli site Yad2's real-estate category",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itamararjuan/yad2-apartments-monitor.git"
+  },
+  "keywords": [
+    "scraping",
+    "yad2",
+    "monitoring"
+  ],
+  "author": "Itamar Arjuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itamararjuan/yad2-apartments-monitor/issues"
+  },
+  "homepage": "https://github.com/itamararjuan/yad2-apartments-monitor#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.4.16"
+  }
+}

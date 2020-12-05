@@ -1,0 +1,4 @@
+YAD2_URL=https://www.yad2.co.il/realestate/rent?area=92
+MAILER_GMAIL_ADDRESS=somegmailmail@gmail.com
+MAILER_GMAIL_PASSWORD=your-email-password
+NOTIFY_EMAIL=notifymail@gmail.com
